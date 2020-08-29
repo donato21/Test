@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Git Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donatoisai16/Test.git"
+  },
+  "keywords": [
+    "test",
+    "git",
+    "first",
+    "time"
+  ],
+  "author": "donatoisai16",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donatoisai16/Test/issues"
+  },
+  "homepage": "https://github.com/donatoisai16/Test#readme"
+}
